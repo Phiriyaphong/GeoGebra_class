@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
+
+
+<iframe scrolling="no" title="เครื่องมือหมุน" src="https://www.geogebra.org/material/iframe/id/xnatps5x/width/1911/height/813/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="1000px" height="813px"  style="border:0px;"> </iframe>

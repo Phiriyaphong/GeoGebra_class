@@ -1,0 +1,24 @@
+---
+title: "GeoGebra_class"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+
+## A title
+
+<iframe width="780" height="600" src="https://www.geogebra.org/m/jyfqftpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+## listen to music
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ds01JeEGHFA?si=NgDTXw-85aMAIDLR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
